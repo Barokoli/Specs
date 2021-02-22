@@ -33,7 +33,6 @@
         "GoogleToolboxForMac/Logger": "~> 2.1",
         "GoogleToolboxForMac/NSData+zlib": "~> 2.1",
         "Protobuf": "~> 3.12",
-        "nanopb": "~> 2.30906.0"
       },
       "frameworks": [
         "CoreTelephony",
@@ -66,7 +65,6 @@
         "GoogleToolboxForMac/Logger": "~> 2.1",
         "GoogleToolboxForMac/NSData+zlib": "~> 2.1",
         "Protobuf": "~> 3.12",
-        "nanopb": "~> 2.30906.0"
       },
       "frameworks": [
         "CoreFoundation",
@@ -103,7 +101,6 @@
       "dependencies": {
         "ARCore/Base": "~> 1.22",
         "Protobuf": "~> 3.12",
-        "nanopb": "~> 2.30906.0"
       },
       "frameworks": [
         "Accelerate",
